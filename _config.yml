@@ -21,8 +21,8 @@
 title: ICarAsia
 email: engineering@icarasia.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ICarAsia wants to be part of the open source community by giving back to it
-  through code, docs and any other way to increase collaboration.
+  iCarAsia wants to be part of the open source community by giving back to it
+  through code, docs and other ways that help increase collaboration.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://icarasia-engineering.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: icarasia-engineering
